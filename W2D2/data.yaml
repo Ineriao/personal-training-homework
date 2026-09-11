@@ -1,0 +1,11 @@
+path: D:/实训/个人每日作业/W2D2/dataset
+train: images/train
+val: images/val
+test: images/test
+
+names:
+  0: fist
+  1: like
+  2: ok
+  3: palm
+  4: peace
