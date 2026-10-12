@@ -1,0 +1,8 @@
+{
+  "model_path": "models/best.pt",
+  "source": "samples/demo.jpg",
+  "confidence": 0.25,
+  "image_size": 320,
+  "device": "auto",
+  "classes": ["fist", "like", "ok", "palm", "peace"]
+}

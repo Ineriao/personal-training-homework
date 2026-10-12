@@ -1,0 +1,4 @@
+ultralytics==8.3.48
+opencv-python>=4.10,<5
+PyQt5>=5.15,<6
+torch>=2.5,<3
